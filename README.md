@@ -25,6 +25,5 @@ This project allows users to **view, add, update, and delete** books with a clea
 - Node.js
 - Express.js
 - MongoDB (Local or Atlas)
-- Mongoose
 
 ---
